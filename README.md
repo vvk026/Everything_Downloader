@@ -1,1 +1,1 @@
-# Everything_Downloader
+Here i have created a Desktop app using tkinter and python.The app allows you to download images from GoogleChrome and download videos from Youtube.I have automated the image download using selenium webdriver. i have implemented logging to log all the things that is happening when the program executes.
